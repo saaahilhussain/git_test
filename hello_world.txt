@@ -1,1 +1,4 @@
-Let the devil out.
+Git commands practice 2.
+
+Git Clone, Git Push, Git status, Git log
+Git remote -v
